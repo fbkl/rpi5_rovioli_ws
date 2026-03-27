@@ -6,7 +6,7 @@
 	url = https://github.com/ros/diagnostics.git
 [submodule "geometry"]
 	path = geometry
-	url = https://github.com/ros/geometry.git
+	url = git@github.com:fbkl/geometry.git
 [submodule "interactive_markers"]
 	path = interactive_markers
 	url = https://github.com/ros-visualization/interactive_markers.git
@@ -27,4 +27,4 @@
 	url = git@github.com:fbkl/vio_launch.git
 [submodule "maplab"]
 	path = maplab
-	url = https://github.com/frederico-klein/maplab.git
+	url = git@github.com:fbkl/maplab.git
