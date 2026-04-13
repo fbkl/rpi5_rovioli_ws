@@ -32,3 +32,7 @@
 	path = ar_track_alvar
 	url = https://github.com/ros-perception/ar_track_alvar.git
 	branch = noetic-devel
+[submodule "resource_retriever"]
+	path = resource_retriever
+	url = https://github.com/ros/resource_retriever.git
+	branch = noetic-devel
