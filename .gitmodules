@@ -28,3 +28,7 @@
 [submodule "maplab"]
 	path = maplab
 	url = git@github.com:fbkl/maplab.git
+[submodule "ar_track_alvar"]
+	path = ar_track_alvar
+	url = https://github.com/ros-perception/ar_track_alvar.git
+	branch = noetic-devel
