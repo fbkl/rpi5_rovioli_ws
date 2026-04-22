@@ -36,3 +36,6 @@
 	path = resource_retriever
 	url = https://github.com/ros/resource_retriever.git
 	branch = noetic-devel
+[submodule "ar_test"]
+	path = ar_test
+	url = git@github.com:fbkl/ar_test.git
